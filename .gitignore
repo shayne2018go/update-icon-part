@@ -1,0 +1,14 @@
+node_modules/
+dist
+.DS_Store
+dist-ssr
+*.local
+*.bak
+.history
+storybook-static
+build-*
+memo.md
+vetur.config.js
+.vscode
+pnpm-lock.yaml
+define-v2
